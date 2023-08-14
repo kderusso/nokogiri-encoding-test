@@ -2,10 +2,10 @@ GEM
   remote: https://rubygems.org/
   specs:
     mini_portile2 (2.8.4)
-    nokogiri (1.15.4)
-      mini_portile2 (~> 2.8.2)
+    nokogiri (1.13.10)
+      mini_portile2 (~> 2.8.0)
       racc (~> 1.4)
-    nokogiri (1.15.4-arm64-darwin)
+    nokogiri (1.13.10-arm64-darwin)
       racc (~> 1.4)
     racc (1.7.1)
 
@@ -14,7 +14,7 @@ PLATFORMS
   universal-darwin-22
 
 DEPENDENCIES
-  nokogiri (= 1.15.4)
+  nokogiri (= 1.13.10)
 
 BUNDLED WITH
    2.3.21
